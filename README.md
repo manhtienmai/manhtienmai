@@ -16,4 +16,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 <i class="devicon-apachekafka-original-wordmark"></i>
 <i class="devicon-amazonwebservices-line-wordmark colored"></i>
-    
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
