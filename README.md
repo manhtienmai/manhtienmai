@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 <i class="devicon-apachekafka-original-wordmark"></i>
+<i class="devicon-amazonwebservices-line-wordmark colored"></i>
+    
