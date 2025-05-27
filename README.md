@@ -1,18 +1,11 @@
 - 👋 Hi, I’m @manhtienmai
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
-
-<!---
-manhtienmai/manhtienmai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### 🏅 My Certifications
+- 🌱 I’m currently learning cloud
+- ⚡ Fun fact: 
 
 ### 🏅 My Certifications
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0f42b4f0-06d7-493b-b7b2-145b3c6d4f4f/image.png)](https://www.credly.com/badges/ede28012-de7d-44c4-bfa4-397963630b7b/public_url)
+[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ede28012-de7d-44c4-bfa4-397963630b7b/public_url)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
